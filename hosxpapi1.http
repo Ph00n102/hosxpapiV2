@@ -1,0 +1,6 @@
+@hosxpapi1_HostAddress = http://localhost:5248
+
+GET {{hosxpapi1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
